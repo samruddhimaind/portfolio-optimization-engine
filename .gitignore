@@ -1,0 +1,13 @@
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# Python Cache & Databases
+__pycache__/
+*.pyc
+*.db
+portfolio_data.db
+
+# VS Code settings
+.vscode/
